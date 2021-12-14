@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Melyakina.Lab5.Num1
+namespace lab6.part2
 {
     class Program
     {
